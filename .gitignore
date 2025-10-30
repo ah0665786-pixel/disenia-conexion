@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules/
+
+# Entornos
+.env
+
+# Archivos de sistema
+.DS_Store
+npm-debug.log
